@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">Art Space</string>
-    <string name="frida_1">Obra de frida</string>
+    <!--Strings de las obras de Frida Kahlo-->
+    <string name="frida_1">Flores Coloridas</string>
+    <string name="frida_date_1">Frida Kahlo, 1995</string>
+    <string name="frida_2">Mujeres</string>
+    <string name="frida_date_2">Frida Kahlo, 1985</string>
+
+    <!--Strings de las obras de Miguel Angel-->
+    <string name="miguel_1">Renacimiento</string>
+    <string name="miguel_date_1">Miguel Angel, 1978</string>
+
+    <!--Strings de las obras de Raphael-->
+    <string name="raphael_1">Sofia</string>
+    <string name="raphael_date_1">Raphael, 1945</string>
+    <string name="raphael_2">Las mujeres de Raphael</string>
+    <string name="raphael_date_2">Raphael, 1955</string>
+
+    <!--Strings de las obras de Leonardo Da Vinci-->
+    <string name="vinci_1">La Mona Lisa</string>
+    <string name="vinci_date_1">Leonardo Da Vinci, 1978</string>
+    <string name="vinci_2">La ultima cena</string>
+    <string name="vinci_date_2">Leonardo Da Vinci, 1982</string>
 </resources>
